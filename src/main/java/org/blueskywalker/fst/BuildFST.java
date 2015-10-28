@@ -2,7 +2,11 @@ package org.blueskywalker.fst;
 
 import org.apache.log4j.Logger;
 
-
+/**
+ * 
+ * @author jiyu
+ *
+ */
 public class BuildFST {
 
     @SuppressWarnings("unused")
